@@ -1,4 +1,3 @@
 Welcome to WeatherFy!
 
-
-![WeatherFy_demo_AdobeExpress](https://user-images.githubusercontent.com/99862668/222551215-68732238-3f13-43c1-9c2a-f465ce741e56.gif)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/99862668/222553955-3ed8e146-3a0e-498c-8479-e551a873a505.gif)
